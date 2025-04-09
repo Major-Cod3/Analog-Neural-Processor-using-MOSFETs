@@ -1,5 +1,4 @@
 # Analog-Neural-Processor-using-MOSFETs
-# Analog Neural Processor based on MOSFETs (Processador Neural Analógico baseado em MOSFETs)
 
 ## ENGLISH VERSION
 
